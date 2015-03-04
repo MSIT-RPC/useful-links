@@ -1,0 +1,4 @@
+helpful URLs for Pis, 'duinos, et al.
+
+MySQLdb for python on raspberry pi
+-http://zetcode.com/db/mysqlpython/
